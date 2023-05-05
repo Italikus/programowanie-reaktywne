@@ -1,11 +1,11 @@
-// import "./App.css";
-import QuizComponent from "./components/QuizComponent/QuizComponent";
+import Counter from "./counter/counter";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
     <>
-      <QuizComponent />
+      <Counter />
     </>
   );
 }
